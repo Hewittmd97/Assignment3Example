@@ -1,0 +1,27 @@
+Server: 	Part2 #1. this is client
+lient"
+Server: 	Fri Jul 26 12:03:29 CDT 2019
+
+Server: 	cslinux1.utdallas.edu
+
+Server: 	  PID TTY          TIME CMD
+11710 pts/3    00:00:00 bash
+29646 pts/3    00:00:00 a3server2
+29677 pts/3    00:00:00 a3server2
+29711 pts/3    00:00:00 ps
+
+Server: 	     14     119     761
+
+Server: 	total 72
+-rwx--x--x+ 1 mdh160430 se 13520 Jul 26 11:22 a3client1
+-rw-------+ 1 mdh160430 se  1490 Jul 26 11:22 a3client1.c
+-rwx--x--x+ 1 mdh160430 se 13608 Jul 26 12:01 a3client2
+-rw-------+ 1 mdh160430 se  1664 Jul 26 12:01 a3client2.c
+-rwx--x--x+ 1 mdh160430 se 13760 Jul 26 11:32 a3server1
+-rw-------+ 1 mdh160430 se  2087 Jul 26 11:32 a3server1.c
+-rwx--x--x+ 1 mdh160430 se 13808 Jul 26 12:01 a3server2
+-rw-------+ 1 mdh160430 se  2101 Jul 26 11:56 a3server2.c
+-rw-------+ 1 mdh160430 se     0 Jul 26 12:03 Client1Log.txt
+
+Server: 	    392    3557   23740
+

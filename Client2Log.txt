@@ -1,0 +1,29 @@
+Server: 	Part2 #2. this is client2
+ient2"
+Server: 	Fri Jul 26 12:03:32 CDT 2019
+
+Server: 	cslinux1.utdallas.edu
+
+Server: 	  PID TTY          TIME CMD
+11710 pts/3    00:00:00 bash
+29646 pts/3    00:00:00 a3server2
+29677 pts/3    00:00:00 a3server2
+29713 pts/3    00:00:00 a3server2
+29748 pts/3    00:00:00 ps
+
+Server: 	a3client1
+a3client1.c
+a3client2
+a3client2.c
+a3server1
+a3server1.c
+a3server2
+a3server2.c
+Client1Log.txt
+Client2Log.txt
+commands2.txt
+commands.txt
+makefile
+
+Server: 	     14     119     761
+
